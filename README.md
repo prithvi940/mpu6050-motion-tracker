@@ -50,15 +50,15 @@ Real-time roll and pitch estimation using MPU6050 and STM32 with live 3D visuali
 │   ├── Inc/
 │   └── Src/
 │
-├── Python_Visualization/
-│   └── imu_visualization.py
+├── simulation/
+│   └── Simulation.py
 │
 ├── MPU6050.ioc
 ├── README.md
 └── .gitignore
 ```
 
-##Installation
+## Installation
 ```bash
 pip install matplotlib numpy pyserial
 ```

@@ -55,7 +55,8 @@ Real-time roll and pitch estimation using MPU6050 and STM32 with live 3D visuali
 │
 ├── MPU6050.ioc
 ├── README.md
-└── .gitignore
+├── STM32F446RETX_FLASH.ld
+└── STM32F446RETX_RAM.ld
 ```
 
 ## Installation
